@@ -1,5 +1,9 @@
 git:
   quiet: true
+  
+os:
+  - linux
+  - linux-ppc64le
 
 dist: xenial
 language: c
